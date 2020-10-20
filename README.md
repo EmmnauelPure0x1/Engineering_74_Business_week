@@ -15,8 +15,8 @@
  - git init (initialization of eng74 to github)
  - created README.md file in repo using 'touch README.md' 
  - used 'nano README.md' cmd to edit readme markdown (.md) file
- - run 'git add .' cmd
- - run 'git commit'
- - run 'git push'
+ - run 'git add README.md' cmd
+ - run 'git commit -m README.md'
+ - run 'git push -u origin main'
  
 
