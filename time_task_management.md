@@ -1,6 +1,6 @@
-#Time and Task management
+# Time and Task management
 
-##Principles
+## Principles
 
 - Pareto Principle
 - Eisenhower Principle
