@@ -1,48 +1,54 @@
-### Project Env
+# Project Env
 
-#### - What is BAU?
-- Business-as-Usual
+### What is BAU?
+- Business-as-Usual aka BAU: Refers to normality of corporate routine and workflow - example (starting work everyday at 9am)
 
-##### Difference between BAU and Project work 
-
-- BAU: Refers to normality of corpporate routine and workflow - example (starting work everyday at 9am)
-
+### Project work 
 - Project Work: Corporate environment tasks and workflow. Meeting target and delivering products.
 
-##### Project: 
+#### Project: 
 - Inititation 
 - Planning
 - Executing
 - Monitoring and controlling 
 - Closing
 
-##### The triple constraint:
+### The triple constraint:
 - Finding balance between each aspect of the constraint (Time, Cost, Quality).
+
 ![t_c_q](tcq.png)
 
-POPIT Model (Holistic Triangle) 
-people, organistation, process are all reliant on technology
+### POPIT Model - Holistic Triangle 
+People, The Organistation and Business Process are all reliant on technology as diagram below displays.
 
-Benefits of well managed project
-- easier to predict cost, time (therefore reduce things that impede)
-- less stress for the ppl working on the project
-- Deadlines Met more accurately
+![popit](popit.jpg)
 
-SDLC (pic on phone)
-methodologies:
-- Waterfall 
-- V-model
-- Agile 
+### Benefits of well managed project
+- Easier to predict cost and time.
+- Factors that impede productivity eliminated from onset.
+- Less stress for personnel working on the project.
+- Deadlines met.
 
-This choice is up to the organisation and tech team 
+## Software Development LifeCycle - SDLC
+###methodologies:
+### Waterfall
+![waterfall](waterfall.jpg)
+###V-model
+![vmodel](vmodel.jpg)
+###Agile 
+The Agile Methodology is an approach in software development that focuses on iterations while emphasizing the rapid delivery of an application.
+- The client can frequently be in contact with the developer to see the work’s progress enabling them to make decisions and changes along the way if needed.
+- This will make the product become more user focussed.
+- Gives the client a sense of ownership.
+- It also enables the product to be released with basic functionality.
 
-is it common practice to swtich between methodologies ? 
 
-methodology can differ. between project if the funding and the resources
-industries may use different methodolies 
+- Common Practice:
+It is not common practice for an organisation to switch methodologies.
+If resources are available a company may choose to do so if beneficial.
+Industries may use different methodolies. 
+====================== ___ ===========================
 
-Engineering - V- Model 
-Tech - Agile 
 
 Waterfall pic on phone
 iterative env (agile)
@@ -55,17 +61,6 @@ improves visibilty of project - constant updates and meetings of progress
 Management Plans and SDLCS
 
 pic on phone
-
-HOMEWORK: 
-
-Find out what SCRUM Artefacts and Events Are.
-
-- Working in Project Teams - 
-
-Devops Vid on phone - Know in depth what DEVOPS is.
-
-Why do projects fail 
-Lean development
 
 DevOps is ccross functional
 
@@ -136,18 +131,14 @@ How much interest do you think devops engineers are valued in a company
 
 *The Directors have the least interest in whats going on in the class - But have maximum power
 
-Stake holder Attitudes
+### Stake holder Attitudes
+Champs - Those who fight for the project. 
+Supporter -  Managers.
+Neutral - Engineers with no particular vested interest.
+Critic - Pessismists of the project.
+Opponent - Against the project.
+Blocker - Completely Against the project and attempt to block it.
 
-Champs - they are the riders of the projects (managers?)
-supporter -  Managers
-Neutral - (low engineers)
-Critic - (haters)
-Opponent - (against)
-Blocker - (Pessismists)
-
-
+### DevOps
 Devops do not need to know how to build the whole product but need to understand how it runs and works
 
-projects are difficult (pic on phone)
-
-why project fails (pic on phone) - Group presentation 

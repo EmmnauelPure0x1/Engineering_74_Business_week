@@ -71,7 +71,7 @@ Critical thinking will foster and promote truth.
 #### Conceptual balance between all hats will ensure a succesfull environment.
 
 ### Enquiry Based learning
- - Concluding on your research and converstion to come best conclusion possible.
+- Concluding on your research and converstion to come best conclusion possible.
 - Open question: How? when? where?
 - Closed question: Did you do this? (accusational conversation)
 - Investigate
@@ -105,13 +105,12 @@ Critical thinking will foster and promote truth.
 - If someone opposes your facts, ask for their counter facts
 - Are they biased?
 
-The Art of Persuasion -- (find Books) 
-- Constructing arguments
-- Listening !!! - Makes the other person feel listend to, opinion valued
-- Appealing to their Ego
+#### The Art of Persuasion 
+- Constructive arguments
+- Listening: Makes the other person feel listend to, opinion valued.
+- Appealing to individual's Ego
 
-####Pillars of Rhetoric
-
+#### Pillars of Rhetoric
 __Ethos:__ 
 - Appealing through authority. 
 
