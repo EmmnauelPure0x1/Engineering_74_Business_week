@@ -5,6 +5,13 @@
 - Agile Methodologies
 - Agile Presentation
 
+## Critical Thinking
+
+#### Understanding Critical Thinking:
+
+
+
+
 
 
 
