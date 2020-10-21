@@ -6,7 +6,7 @@
 - Agile Benefits
 - Agile and Scrum Presentation
 
-### Critical Thinking
+## Critical Thinking
 __What is critical thinking:__
 
 Critical Thinking refers to asking questions, the right questions.
@@ -92,4 +92,32 @@ Critical thinking will foster and promote truth.
 - Balance of information
 - Underlying themes
 - Background
+
+#### Definition of an Argument
+- Opposition of conflicting beliefs and ideas or facts.
+
+### How to present your idea
+
+#### Debating Etiquette
+- Listen before talking 
+- Reflect on the strength of other argument
+- Be contructive 
+- If someone opposes your facts, ask for their counter facts
+- Are they biased?
+
+The Art of Persuasion -- (find Books) 
+- Constructing arguments
+- Listening !!! - Makes the other person feel listend to, opinion valued
+- Appealing to their Ego
+
+####Pillars of Rhetoric
+
+__Ethos:__ 
+- Appealing through authority. 
+
+__Pathos:__ 
+- Emotional empathy.
+
+__Logos:__
+- Appealing trhough logic and reasoning.
 
