@@ -1,3 +1,42 @@
-======
-Day 2 recap
-======
+# Day 3
+
+- Critical Thinking
+- Project Env
+- Agile Methodologies
+- Agile Presentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
