@@ -16,12 +16,12 @@
 ### The triple constraint:
 - Finding balance between each aspect of the constraint (Time, Cost, Quality).
 
-![t_c_q](tcq.png)
+![t_c_q](images/tcq.png)
 
 ### POPIT Model - Holistic Triangle 
 People, The Organistation and Business Process are all reliant on technology as diagram below displays.
 
-![popit](popit.jpg)
+![popit](images/popit.jpg)
 
 ### Benefits of well managed project
 - Easier to predict cost and time.
@@ -30,12 +30,12 @@ People, The Organistation and Business Process are all reliant on technology as 
 - Deadlines met.
 
 ## Software Development LifeCycle - SDLC
-###methodologies:
+### methodologies:
 ### Waterfall
-![waterfall](waterfall.jpg)
-###V-model
-![vmodel](vmodel.jpg)
-###Agile 
+![waterfall](images/waterfall.jpg)
+### V-model
+![vmodel](images/vmodel.jpg)
+### Agile 
 The Agile Methodology is an approach in software development that focuses on iterations while emphasizing the rapid delivery of an application.
 - The client can frequently be in contact with the developer to see the work’s progress enabling them to make decisions and changes along the way if needed.
 - This will make the product become more user focussed.
@@ -141,4 +141,5 @@ Blocker - Completely Against the project and attempt to block it.
 
 ### DevOps
 Devops do not need to know how to build the whole product but need to understand how it runs and works
+
 
