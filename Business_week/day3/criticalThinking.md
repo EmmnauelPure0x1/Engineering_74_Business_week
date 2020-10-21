@@ -30,4 +30,4 @@ Critical thinking will foster and promote truth.
 
 ### Thinking Triangle
 
-![Bloom's Taxonomy](//eng74/Business_week/day3/BloomsTaxonomy.jpg)
+![Bloom's Taxonomy](BloomsTaxonomy.jpg)
