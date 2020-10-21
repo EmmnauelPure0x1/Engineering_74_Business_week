@@ -6,8 +6,7 @@
 - Agile Benefits
 - Agile and Scrum Presentation
 
-### Critical Thinking:
-
+### Critical Thinking
 __What is critical thinking:__
 
 Critical Thinking refers to asking questions, the right questions.
@@ -22,12 +21,75 @@ __Truth:__
 
 Critical thinking will foster and promote truth.
 
-### Critical Thinking skills:
-
+### Critical Thinking skills
 - Actively seeking out all sides of an argument (people) 
 - Checking facts and evidence
 - Responding Objectively
 
-### Thinking Triangle
-
+### Ben Gloom's Thinking Triangle
 ![Bloom's Taxonomy](BloomsTaxonomy.jpg)
+
+- Evaluate - Presenting and defending opinions.
+- Synthesise - Combine the information into a new theory to further research and work on.
+- Analyse - What the imapact is or would be.
+- Apply - Being able to make us of the knowledge and put it to practice.
+- Understanding - Knowing what makes sense and what does not. 
+- Remember - Having the knowledge, re-calling information. 
+
+### Critical Thinking Process
+- Identify:
+
+1. The mains points of argument.
+2. Identify the claims made.
+3. The evidence used to make claims.
+4. Reach conclusion
+
+- Analyse:
+
+1. Be inquisitive and find out facts from research. 
+2. Find recent information to support claim.
+3. Be careful not to fall into biased views and claim factual opinions 'solid'.
+
+- Apply:
+
+1. Whether viability of fact is fitting.
+2. The implication of other information
+
+### Modes of Thinking
+- __Divergent:__ Colming up with ideas once the claim has been presented. 
+- __Convergent:__ Relying on facts and research to form asnwer.
+- __Lateral:__ Hybrid of both Divergent and Convergent.
+
+### Thinking Hats 
+- White: Factual analysis
+- Blue: Thinking 
+- Green: Creativity
+- Red: Emotions, Feelings
+- Black: Judgement
+- Yellow: Optimism, Brightness
+
+#### Conceptual balance between all hats will ensure a succesfull environment.
+
+### Enquiry Based learning
+ - Concluding on your research and converstion to come best conclusion possible.
+- Open question: How? when? where?
+- Closed question: Did you do this? (accusational conversation)
+- Investigate
+
+### Enquiry Cycle
+ - Investigate
+ - Reflect 
+ - Enquire
+ - Create
+ - Conclude
+
+### What Kind of quesutions might we when investigating
+- Source
+- claims
+- Evidence 
+- Strengths and Weaknesses
+- Clear points 
+- Balance of information
+- Underlying themes
+- Background
+
