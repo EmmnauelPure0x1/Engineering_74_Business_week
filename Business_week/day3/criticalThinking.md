@@ -27,7 +27,7 @@ Critical thinking will foster and promote truth.
 - Responding Objectively
 
 ### Ben Gloom's Thinking Triangle
-![Bloom's Taxonomy](BloomsTaxonomy.jpg)
+![Bloom's Taxonomy](/images/BloomsTaxonomy.jpg)
 
 - Evaluate - Presenting and defending opinions.
 - Synthesise - Combine the information into a new theory to further research and work on.
