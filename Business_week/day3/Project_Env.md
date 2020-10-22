@@ -51,7 +51,7 @@ Industries may have different methodolies.
 ![iterative](images/iterative.jpg)
 
 ### Management Plans and SDLCS
-![SDLC](images/sdlc.png)
+![SDLC](images/SDLC.png)
 ### Scrum Roles 
 - BA - Business Analyst
 - PM - Project Management
@@ -93,7 +93,7 @@ Industries may have different methodolies.
 ### Stakeholders:
 #### Whoever is involed in the success of the product or company
 #### Power/Interest Grid: 
-![grid](grid.jpg)
+![grid](images/grid.jpg)
 
 ### Importance of DevOps
 [DevOps Defined](https://web.microsoftstream.com/video/1d5b348a-ca1d-4262-85dd-cf1657d34183)
