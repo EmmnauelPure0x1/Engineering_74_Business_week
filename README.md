@@ -1,4 +1,4 @@
-# This is the guide to create git and github connection with SSH key
+## This is the guide to create git and github connection with SSH key
 
 ## Steps to creating Repo:
 
@@ -18,8 +18,3 @@
  - run 'git add README.md' cmd
  - run 'git commit -m README.md'
  - run 'git push -u origin main'
- 
-
-# Elevator-Pitch
-# Elevator-Pitch
-# Elevators_Pitch
