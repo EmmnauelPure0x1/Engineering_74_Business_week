@@ -3,7 +3,7 @@
 - Download Git on localhost
 - Create GitHub account online
 - Generate SSH Key:
-	- ssh-keygen -t rsa -b 4096 -C "<Input email registered with GitHub>"
+	- ssh-keygen -t rsa -b 4096 -C "your github registered email address here"
 - On localhost navigate to pub ssh key location with following command:
 	- $ cd ~/.ssh
 	- $ ls
@@ -11,7 +11,7 @@
 - On web GitHub account navigate to Settings => SSH & GPG Keys
 - Paste SSH key in SSH field.
 
-### Once Complete, you are set up with a secure SSH connection to your GitHub Account.
+**Once Complete, you are set up with a secure SSH connection to your GitHub Account.**
 
 ## Creating a Repository
 
@@ -28,6 +28,6 @@
 	- git remote add origin https://github.com/EmmnauelPure0x1/test.git
 	- git push -u origin main 
 
-** Once above steps are complete you will be able to commit and push files as desired. **
+**Once above steps are complete you will be able to commit and push files as desired.**
 
 
