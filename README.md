@@ -3,7 +3,7 @@
 - Download Git on localhost
 - Create GitHub account online
 - Generate SSH Key:
-	- ssh-keygen -t rsa -b 4096 -C "your github registered email address here"
+	- ssh-keygen -t rsa -b 4096 -C __"your github registered email address here"__
 - On localhost navigate to pub ssh key location with following command:
 	- $ cd ~/.ssh
 	- $ ls
