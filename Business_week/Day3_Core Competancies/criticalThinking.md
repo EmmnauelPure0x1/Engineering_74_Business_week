@@ -1,20 +1,22 @@
-# Day 3
+# Critical Thinking
+
+### Recap:
 
 - Stand-Up (Previous day Recap)
 - Critical Thinking
-- Project Env
+- Project Environment
 - Agile Benefits
 - Agile and Scrum Presentation
 
-## Critical Thinking
-__What is critical thinking:__
+
+__What is Critical thinking:__
 
 Critical Thinking refers to asking questions, the right questions.
 A critical mindset helps you assess the meaning and claims of arguments.
 
 __Why critical thinking:__
 
-Helps you to create a strong argument by justifying claims with facts 
+Helps you to create a strong argument by justifying claims with facts. 
 Helpful in every aspect of business as it requires ability to gather factual information.
 
 __Truth:__ 
@@ -37,20 +39,20 @@ Critical thinking will foster and promote truth.
 - Remember - Having the knowledge, re-calling information. 
 
 ### Critical Thinking Process
-- Identify:
+- **Identify:**
 
 1. The mains points of argument.
 2. Identify the claims made.
 3. The evidence used to make claims.
 4. Reach conclusion
 
-- Analyse:
+- **Analyse:**
 
 1. Be inquisitive and find out facts from research. 
 2. Find recent information to support claim.
 3. Be careful not to fall into biased views and claim factual opinions 'solid'.
 
-- Apply:
+- **Apply:**
 
 1. Whether viability of fact is fitting.
 2. The implication of other information
@@ -82,6 +84,8 @@ Critical thinking will foster and promote truth.
  - Enquire
  - Create
  - Conclude
+
+![Enquiry Cycle](images/Enquiry.png)
 
 ### What Kind of quesutions might we when investigating
 - Source
@@ -120,3 +124,48 @@ __Pathos:__
 __Logos:__
 - Appealing trhough logic and reasoning.
 
+### Key Performance Indicators (KPI):
+
+**Behavioural Competancies:** 
+
+- Analytical:
+	- Critical Thinker
+	- Researcher
+	- Strategic
+	- Optimise
+	- Implementer
+
+- Independent:
+	- Accountability
+	- Courageous
+	- Disciplined
+	- Networker
+	- Self-Starter
+
+- Studious:
+	- Life-long Learner
+	- Curious
+	- Cognitive Ability
+	- Reflection
+	- Iterative Growth
+
+- Determined:
+	- Motivated
+	- Goal Oriented
+	- Endurance
+	- Positivity
+	- Focused
+	
+- Professional:
+	- Communication
+	- Reliability
+	- Demeanour
+	- Appearance
+	- Poise
+
+- Imaginative:
+	- Divergent 
+	- Creative
+	- Open Minded
+	- Sharing Ideas
+	- Value Driven 
