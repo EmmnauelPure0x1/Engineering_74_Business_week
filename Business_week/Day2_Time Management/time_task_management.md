@@ -49,11 +49,12 @@
 
 ### Eisenhower Principle
 
-![Eisenhower-principle](/images/eisenhower.png)
+![Eisenhower_principle](images/eisenhower.png)
 
 ### Pareto Principle
 
-![Pareto-principle](/images/Pareto2.png)
+![Pareto_principle](images/Pareto2.png)
+![waterfall](images/waterfall.jpg)
 
 ### Communication 
 
