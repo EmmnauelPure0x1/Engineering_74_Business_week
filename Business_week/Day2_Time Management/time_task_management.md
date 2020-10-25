@@ -49,11 +49,11 @@
 
 ### Eisenhower Principle
 
-![Eisenhower-principle](Day3_Core Competancies/images/eisenhower.png)
+![Eisenhower-principle](/images/eisenhower.png)
 
 ### Pareto Principle
 
-![Pareto-principle](Day3_Core Competancies/images/Pareto2.png)
+![Pareto-principle](/images/Pareto2.png)
 
 ### Communication 
 
