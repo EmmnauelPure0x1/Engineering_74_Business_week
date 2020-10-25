@@ -1,6 +1,6 @@
 # Project Env
 
-### BAU?
+### BAU
 
 **What is BAU?**
 - Business-as-Usual AKA BAU: Refers to normality of corporate routine and workflow - eg. starting work everyday at 9am
@@ -39,13 +39,17 @@ People, the Organistation and business processes are all reliant on technology a
 ### Methodologies:
 
 **Waterfall:**
+
 ![waterfall](images/waterfall.jpg)
 
 **V-model:**
+
 ![vmodel](images/V-Model.png)
 
 **Agile:** 
+
 The Agile Methodology is an approach in software development that focuses on iterations while emphasizing the rapid delivery of an application.
+
 - The client can frequently be in contact with the developer to see the work’s progress enabling them to make decisions and changes along the way if needed.
 - This will make the product become more user focused.
 - Gives the client a sense of ownership.
