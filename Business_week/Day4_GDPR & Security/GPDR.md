@@ -62,22 +62,3 @@ GDPR has for mission to enable transparency to the IT industry.**
 
 Best to save data in a Database.
 Unsafe to store information in USB devices, spreadsheets.
-
-============== go over ============
-Cyber Security
-
-Social Engineering
-
-Reciprocity
-Commitnment n consistency
-SocialProof
-Authority
-Scarcity
-
-countermeasure
-=============== go over ============
-Interview Skills:
-
-What is important
-- Knowledge of the job role and methodologies
-- Knowledge of company
