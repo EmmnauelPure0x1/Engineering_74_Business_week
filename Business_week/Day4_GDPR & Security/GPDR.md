@@ -1,4 +1,4 @@
-GDPR - Policy & Security 
+#GDPR - Policy & Cyber Security 
 
 **What is General Data protection Regulation (GDPR) ?** 
 
