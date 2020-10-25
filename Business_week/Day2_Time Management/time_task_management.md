@@ -31,7 +31,7 @@
 ### What is Time & Task management?
 
 - **Time** management is the range of skills and tools utilised to accomplish specific tasks, projects and goals.
-- **Task** Management is the process of managing tasks during lifecycle, including planning, tracking and reporting.
+- **Task** management is the process of managing tasks during lifecycle, including planning, tracking and reporting.
 
 ### Time, Task management Tools
 
@@ -53,26 +53,26 @@
 
 ### Pareto Principle
 
-![Pareto-principle](images/pareto2.png)
+![Pareto-principle](images/Pareto2.png)
 
 ### Communication 
 
 - Difference between good and bad communication.
 - Effective communicated gets work done. 
-- Body Language (Positive and negative attitude)
+- Body Language (Positive and negative attitude).
 
 ### Workplace attitude
 
-- Reactance: 
+- Reactance.
 - Reciprocity: Be first to give, assist.
-- Likeability
-- Social Proof
-- Likeability
+- Likeability.
+- Social Proof.
+- Likeability.
 
 ### Workplace Environment
 
-- Dedicated Space - Not Lying Down, avoid noise
-- Dresas for a wokring day
-- Use tools to keep focused
+- Dedicated Space - Not Lying Down, avoid noise.
+- Dress for a wokring day.
+- Use tools to keep focused.
 - Be kind to yourself.
-- Good internet connection
+- Good internet connection.
